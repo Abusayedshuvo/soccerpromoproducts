@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Verdana, sans-serif;
+  src: local("font/verdana.ttf");
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  overflow-x: hidden;
+}
